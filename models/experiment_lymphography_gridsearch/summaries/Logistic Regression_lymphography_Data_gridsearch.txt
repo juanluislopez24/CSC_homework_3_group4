@@ -1,0 +1,14 @@
+Model performance for Training set Logistic Regression_lymphography_Data_gridsearch
+- Accuracy: 0.8729
+- F1 score: 0.864
+- Precision: 0.8635
+- Recall: 0.8729
+----------------------------------
+===================================
+Model performance for Test set Logistic Regression_lymphography_Data_gridsearch
+- Accuracy: 0.9
+- F1 score: 0.8962
+- Precision: 0.9044
+- Recall: 0.9
+----------------------------------
+===================================

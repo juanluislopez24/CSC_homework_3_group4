@@ -1,0 +1,14 @@
+Model performance for Training set K-Nearest Neighbors_glass_Data_no_gridsearch
+- Accuracy: 0.8889
+- F1 score: 0.8842
+- Precision: 0.8882
+- Recall: 0.8889
+----------------------------------
+===================================
+Model performance for Test set K-Nearest Neighbors_glass_Data_no_gridsearch
+- Accuracy: 0.814
+- F1 score: 0.7975
+- Precision: 0.8146
+- Recall: 0.814
+----------------------------------
+===================================

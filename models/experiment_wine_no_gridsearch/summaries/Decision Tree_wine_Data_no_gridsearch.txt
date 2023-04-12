@@ -1,0 +1,14 @@
+Model performance for Training set Decision Tree_wine_Data_no_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Test set Decision Tree_wine_Data_no_gridsearch
+- Accuracy: 0.9444
+- F1 score: 0.944
+- Precision: 0.9463
+- Recall: 0.9444
+----------------------------------
+===================================

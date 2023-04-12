@@ -1,0 +1,14 @@
+Model performance for Training set SVM_glass_Data_gridsearch
+- Accuracy: 0.9942
+- F1 score: 0.9941
+- Precision: 0.9942
+- Recall: 0.9942
+----------------------------------
+===================================
+Model performance for Test set SVM_glass_Data_gridsearch
+- Accuracy: 0.9767
+- F1 score: 0.9757
+- Precision: 0.9814
+- Recall: 0.9767
+----------------------------------
+===================================

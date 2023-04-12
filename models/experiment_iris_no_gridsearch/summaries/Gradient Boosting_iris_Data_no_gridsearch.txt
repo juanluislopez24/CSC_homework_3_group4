@@ -1,0 +1,42 @@
+Model performance for Training set Gradient Boosting_iris_Data_no_gridsearch
+- Accuracy: 0.975
+- F1 score: 0.975
+- Precision: 0.9752
+- Recall: 0.975
+----------------------------------
+===================================
+Model performance for Test set Gradient Boosting_iris_Data_no_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Training set Gradient Boosting_iris_Data_no_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Test set Gradient Boosting_iris_Data_no_gridsearch
+- Accuracy: 0.9444
+- F1 score: 0.944
+- Precision: 0.9463
+- Recall: 0.9444
+----------------------------------
+===================================
+Model performance for Training set Gradient Boosting_iris_Data_no_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Test set Gradient Boosting_iris_Data_no_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================

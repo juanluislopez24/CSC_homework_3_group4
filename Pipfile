@@ -22,9 +22,9 @@ setuptools = "*"
 wheel = "*"
 tensorflow = "*"
 numba = "*"
-pycaret = "*"
-xgboost = "*"
-corankco = "==1.0.0"
+pycaret = {extras = ["analysis"], version = "*"}
+shap = "*"
+lightgbm = "*"
 
 [dev-packages]
 

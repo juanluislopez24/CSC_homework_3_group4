@@ -1,0 +1,14 @@
+Model performance for Training set Gradient Boosting_lymphography_Data_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Test set Gradient Boosting_lymphography_Data_gridsearch
+- Accuracy: 0.9
+- F1 score: 0.8999
+- Precision: 0.9019
+- Recall: 0.9
+----------------------------------
+===================================

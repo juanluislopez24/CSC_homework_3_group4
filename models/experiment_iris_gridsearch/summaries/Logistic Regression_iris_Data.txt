@@ -1,0 +1,43 @@
+===================================
+Model performance for Training set Logistic Regression_iris_Data
+- Accuracy: 0.9667
+- F1 score: 0.9667
+- Precision: 0.9675
+- Recall: 0.9667
+----------------------------------
+===================================
+Model performance for Test set Logistic Regression_iris_Data
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Training set Logistic Regression_iris_Data
+- Accuracy: 0.993
+- F1 score: 0.993
+- Precision: 0.9931
+- Recall: 0.993
+----------------------------------
+===================================
+Model performance for Test set Logistic Regression_iris_Data
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Training set Logistic Regression_iris_Data
+- Accuracy: 0.9667
+- F1 score: 0.9667
+- Precision: 0.9675
+- Recall: 0.9667
+----------------------------------
+===================================
+Model performance for Test set Logistic Regression_iris_Data
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================

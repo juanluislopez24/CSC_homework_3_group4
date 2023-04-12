@@ -1,0 +1,14 @@
+Model performance for Training set Logistic Regression_glass_Data_no_gridsearch
+- Accuracy: 0.9766
+- F1 score: 0.9763
+- Precision: 0.978
+- Recall: 0.9766
+----------------------------------
+===================================
+Model performance for Test set Logistic Regression_glass_Data_no_gridsearch
+- Accuracy: 0.9302
+- F1 score: 0.9262
+- Precision: 0.9386
+- Recall: 0.9302
+----------------------------------
+===================================

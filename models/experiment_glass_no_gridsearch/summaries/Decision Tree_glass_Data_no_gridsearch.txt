@@ -1,0 +1,14 @@
+Model performance for Training set Decision Tree_glass_Data_no_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Test set Decision Tree_glass_Data_no_gridsearch
+- Accuracy: 0.9767
+- F1 score: 0.9766
+- Precision: 0.9783
+- Recall: 0.9767
+----------------------------------
+===================================

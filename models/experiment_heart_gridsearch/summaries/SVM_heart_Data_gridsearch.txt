@@ -1,0 +1,14 @@
+Model performance for Training set SVM_heart_Data_gridsearch
+- Accuracy: 0.8426
+- F1 score: 0.8419
+- Precision: 0.8435
+- Recall: 0.8426
+----------------------------------
+===================================
+Model performance for Test set SVM_heart_Data_gridsearch
+- Accuracy: 0.9259
+- F1 score: 0.9241
+- Precision: 0.9339
+- Recall: 0.9259
+----------------------------------
+===================================

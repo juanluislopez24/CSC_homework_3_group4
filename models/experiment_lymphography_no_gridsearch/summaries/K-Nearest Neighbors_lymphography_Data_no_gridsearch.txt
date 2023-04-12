@@ -1,0 +1,14 @@
+Model performance for Training set K-Nearest Neighbors_lymphography_Data_no_gridsearch
+- Accuracy: 0.8729
+- F1 score: 0.8622
+- Precision: 0.8681
+- Recall: 0.8729
+----------------------------------
+===================================
+Model performance for Test set K-Nearest Neighbors_lymphography_Data_no_gridsearch
+- Accuracy: 0.7667
+- F1 score: 0.7415
+- Precision: 0.7243
+- Recall: 0.7667
+----------------------------------
+===================================

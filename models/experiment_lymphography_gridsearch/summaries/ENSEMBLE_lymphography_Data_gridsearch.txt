@@ -1,0 +1,14 @@
+Model performance for train set ENSEMBLE_lymphography_Data_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for test set ENSEMBLE_lymphography_Data_gridsearch
+- Accuracy: 0.8667
+- F1 score: 0.8628
+- Precision: 0.8711
+- Recall: 0.8667
+----------------------------------
+===================================

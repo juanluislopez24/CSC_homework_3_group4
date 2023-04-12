@@ -1,0 +1,14 @@
+Model performance for Training set Random Forest_heart_Data_gridsearch
+- Accuracy: 0.9398
+- F1 score: 0.9397
+- Precision: 0.9405
+- Recall: 0.9398
+----------------------------------
+===================================
+Model performance for Test set Random Forest_heart_Data_gridsearch
+- Accuracy: 0.8704
+- F1 score: 0.8662
+- Precision: 0.8792
+- Recall: 0.8704
+----------------------------------
+===================================

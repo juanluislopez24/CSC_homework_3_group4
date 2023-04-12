@@ -1,0 +1,14 @@
+Model performance for Training set Random Forest_lymphography_Data_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Test set Random Forest_lymphography_Data_gridsearch
+- Accuracy: 0.8333
+- F1 score: 0.8046
+- Precision: 0.7778
+- Recall: 0.8333
+----------------------------------
+===================================

@@ -1,0 +1,14 @@
+Model performance for Training set Gradient Boosting_heart_Data_gridsearch
+- Accuracy: 0.8935
+- F1 score: 0.8931
+- Precision: 0.8946
+- Recall: 0.8935
+----------------------------------
+===================================
+Model performance for Test set Gradient Boosting_heart_Data_gridsearch
+- Accuracy: 0.8704
+- F1 score: 0.8636
+- Precision: 0.8931
+- Recall: 0.8704
+----------------------------------
+===================================

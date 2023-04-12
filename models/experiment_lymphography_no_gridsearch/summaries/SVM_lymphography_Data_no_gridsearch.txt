@@ -1,0 +1,14 @@
+Model performance for Training set SVM_lymphography_Data_no_gridsearch
+- Accuracy: 0.9407
+- F1 score: 0.939
+- Precision: 0.9419
+- Recall: 0.9407
+----------------------------------
+===================================
+Model performance for Test set SVM_lymphography_Data_no_gridsearch
+- Accuracy: 0.8333
+- F1 score: 0.8046
+- Precision: 0.7778
+- Recall: 0.8333
+----------------------------------
+===================================

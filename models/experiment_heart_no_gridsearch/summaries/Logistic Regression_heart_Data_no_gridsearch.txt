@@ -1,0 +1,14 @@
+Model performance for Training set Logistic Regression_heart_Data_no_gridsearch
+- Accuracy: 0.838
+- F1 score: 0.8377
+- Precision: 0.8378
+- Recall: 0.838
+----------------------------------
+===================================
+Model performance for Test set Logistic Regression_heart_Data_no_gridsearch
+- Accuracy: 0.9074
+- F1 score: 0.907
+- Precision: 0.9072
+- Recall: 0.9074
+----------------------------------
+===================================

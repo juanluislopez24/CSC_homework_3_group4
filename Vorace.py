@@ -540,53 +540,30 @@ class Vorace:
 		n_model=len(preferences[0])
 		n_samples = len(preferences)
 		scores=np.zeros((n_samples,n_candidates), dtype="f4")
-		#perm = permutations(range(n_candidates))
-
-		#perm = list(perm)
-
-		#print(f"#Model: {n_model} #CAndidates: {n_candidates}")
-		#print(f"#Model: {n_model} #SAmples: {n_samples}")
-		#print(f"Preferences: {preferences} #Preferences: {len(preferences)}")
+		perm = permutations(range(n_candidates))
+		perm = list(perm)
 		
 		for l in range(len(preferences)):
-			#rofile=np.zeros((n_model,n_candidates), dtype="i2")
 			profile=[]
-			#print("********************* PREFERENCES ORIG")
-			#print(preferences[l])
-			#print("********************* PREFERENCES ORDERED")
-			#print(np.unique(preferences[l], axis=1))
 			temp_ordered = np.flip(np.unique(preferences[l], axis=1), axis=1)
-			#print("********************* PREFERENCES ORDERED INVERSE")
-			#print(temp_ordered)
 			for i in range(n_model):
-				#temp=Vorace.sortingPref(preferences[l][i])
 				temp = temp_ordered[i] 
-				#print("********************* FIRST PREFERENCES ORDERED INVERSE")
-				#print(temp)
-				#print(f"********************* PREFERENCES ORIG {l} {i}")
-				#print(preferences[l][i])
-				#print("********************* INDECES")
-				temp=[np.where(preferences[l][i]==temp[j])[0] for j in range(len(temp))]
-				#print(temp)
-				#exit()
-				#print([[x] for x in temp ])
-				#profile.append([[x] for x in temp ])
+				temp=[np.where(preferences[l][i]==temp[j])[0][0] for j in range(len(temp))]
 				profile.append(temp)
 
-			#print(len(profile))
 			ranks = Dataset(profile)
-			sc = ScoringScheme()
-			if len(profile[0])>5:
-				consensus = KemRankAgg.compute_consensus(ranks, sc, Algorithm.ParCons)
-			else:
-				consensus = KemRankAgg.compute_consensus(ranks, sc, Algorithm.Exact)
-
-			for c in range(len(consensus.consensus_rankings[0])):
-				candidate = consensus.consensus_rankings[0][c][0]
+			centroids = order_centroid(ranks)
+			centrality_scores = rank_centrality(ranks)
+			combined_scores = centroids * centrality_scores
+			combined_scores = np.sum(combined_scores, axis=1)
+			combined_scores = np.flip(np.argsort(combined_scores), axis=0)
+			for c in range(len(combined_scores)):
+				candidate = combined_scores[c]
 				scores[l][candidate] = n_candidates - c
-			
-			#print(profile)
-			#print(scores[l])
-			#exit()
-		#return min_dist, best_rank
 		return scores
+
+
+
+
+
+

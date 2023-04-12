@@ -1,0 +1,14 @@
+Model performance for Training set Decision Tree_heart_Data_gridsearch
+- Accuracy: 0.8935
+- F1 score: 0.8924
+- Precision: 0.9002
+- Recall: 0.8935
+----------------------------------
+===================================
+Model performance for Test set Decision Tree_heart_Data_gridsearch
+- Accuracy: 0.8148
+- F1 score: 0.8071
+- Precision: 0.8228
+- Recall: 0.8148
+----------------------------------
+===================================

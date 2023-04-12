@@ -1,0 +1,14 @@
+Model performance for Training set K-Nearest Neighbors_heart_Data_gridsearch
+- Accuracy: 0.8657
+- F1 score: 0.8654
+- Precision: 0.866
+- Recall: 0.8657
+----------------------------------
+===================================
+Model performance for Test set K-Nearest Neighbors_heart_Data_gridsearch
+- Accuracy: 0.8148
+- F1 score: 0.8104
+- Precision: 0.8158
+- Recall: 0.8148
+----------------------------------
+===================================

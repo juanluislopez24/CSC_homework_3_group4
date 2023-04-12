@@ -1,0 +1,14 @@
+Model performance for Training set Decision Tree_lymphography_Data_no_gridsearch
+- Accuracy: 1.0
+- F1 score: 1.0
+- Precision: 1.0
+- Recall: 1.0
+----------------------------------
+===================================
+Model performance for Test set Decision Tree_lymphography_Data_no_gridsearch
+- Accuracy: 0.6667
+- F1 score: 0.6543
+- Precision: 0.652
+- Recall: 0.6667
+----------------------------------
+===================================

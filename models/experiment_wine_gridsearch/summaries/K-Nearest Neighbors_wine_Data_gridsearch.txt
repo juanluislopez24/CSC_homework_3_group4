@@ -1,0 +1,14 @@
+Model performance for Training set K-Nearest Neighbors_wine_Data_gridsearch
+- Accuracy: 0.9859
+- F1 score: 0.9859
+- Precision: 0.9862
+- Recall: 0.9859
+----------------------------------
+===================================
+Model performance for Test set K-Nearest Neighbors_wine_Data_gridsearch
+- Accuracy: 0.9444
+- F1 score: 0.9436
+- Precision: 0.9494
+- Recall: 0.9444
+----------------------------------
+===================================

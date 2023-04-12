@@ -1,0 +1,14 @@
+Model performance for train set ENSEMBLE_heart_Data_no_gridsearch
+- Accuracy: 0.9907
+- F1 score: 0.9907
+- Precision: 0.9907
+- Recall: 0.9907
+----------------------------------
+===================================
+Model performance for test set ENSEMBLE_heart_Data_no_gridsearch
+- Accuracy: 0.8333
+- F1 score: 0.8325
+- Precision: 0.8324
+- Recall: 0.8333
+----------------------------------
+===================================
