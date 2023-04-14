@@ -25,6 +25,7 @@ numba = "*"
 pycaret = {extras = ["analysis"], version = "*"}
 shap = "*"
 lightgbm = "*"
+corankco = "~=0.1.0"
 
 [dev-packages]
 
