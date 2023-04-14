@@ -1,16 +1,4 @@
-Model performance for Training set K-Nearest Neighbors_iris_Data_no_gridsearch
-- Accuracy: 1.0
-- F1 score: 1.0
-- Precision: 1.0
-- Recall: 1.0
-----------------------------------
-===================================
-Model performance for Test set K-Nearest Neighbors_iris_Data_no_gridsearch
-- Accuracy: 1.0
-- F1 score: 1.0
-- Precision: 1.0
-- Recall: 1.0
-----------------------------------
+
 ===================================
 Model performance for Training set K-Nearest Neighbors_iris_Data_no_gridsearch
 - Accuracy: 0.9859
@@ -24,19 +12,5 @@ Model performance for Test set K-Nearest Neighbors_iris_Data_no_gridsearch
 - F1 score: 0.9436
 - Precision: 0.9494
 - Recall: 0.9444
-----------------------------------
-===================================
-Model performance for Training set K-Nearest Neighbors_iris_Data_no_gridsearch
-- Accuracy: 0.9583
-- F1 score: 0.9583
-- Precision: 0.9585
-- Recall: 0.9583
-----------------------------------
-===================================
-Model performance for Test set K-Nearest Neighbors_iris_Data_no_gridsearch
-- Accuracy: 1.0
-- F1 score: 1.0
-- Precision: 1.0
-- Recall: 1.0
 ----------------------------------
 ===================================
